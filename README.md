@@ -31,7 +31,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=AffanShaikh726&show_icons=true&theme=radical" alt="GitHub stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AffanShaikh726&theme=radical" alt="GitHub streak" height="180px"/>
 </p>
@@ -39,7 +39,7 @@
 ---
 
 ### 📈 Most Used Languages:
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanShaikh726&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
