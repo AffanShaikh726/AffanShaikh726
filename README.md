@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Affan</h1>
-<h3 align="center">Passionate Web Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Passionate Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
 
